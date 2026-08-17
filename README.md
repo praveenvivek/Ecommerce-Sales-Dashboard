@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** designed to analyze and visualize e-commer
 
 ## 📊 Dashboard Preview
 
-![image]()
+![Ecommerce Dashboard](Img/Dashboard.png)
 
 ## 📌 Project Overview
 
